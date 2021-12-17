@@ -1,0 +1,53 @@
+
+In [1]: list = ['wand']
+
+In [2]: list = ['dildo']
+
+In [3]: list = ['vibrator']
+
+In [4]: list = ['hairpin']
+
+In [5]: list = ['wig']
+
+In [6]: wand = 9.45
+
+In [7]: dildo = 5.67
+
+In [8]: vibrator = 3.20
+
+In [9]: hairpin = 7.47
+
+In [10]: wig = 20.23
+
+In [11]: print(wand + dildo + vibrator + hairpin + wig)
+46.019999999999996
+
+In [12]: wand =9.45
+
+In [13]: dildo = 5.67
+
+In [14]: vibrator = 3.20
+
+In [15]: hairpin = 7.47
+
+In [16]: wig = 20.23 * 5
+
+In [17]: print(wand + dildo + vibrator + hairpin + wig)
+126.94
+
+In [18]: phrase = 'Blood oxygenation level dependent functional magnetic resource imaging '
+
+In [19]: print(len(phrase))
+71
+
+In [20]: snack = 'cucumber'
+
+In [21]: print(snack *100)
+cucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumbercucumber
+
+In [23]: snack = 'cucumber'
+
+In [24]: snack = 'cucumber '
+
+In [25]: print(snack *100)
+cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber cucumber
